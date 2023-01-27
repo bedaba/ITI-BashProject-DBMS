@@ -17,6 +17,7 @@ esac
 
 done
 
+
 # # This script is a simple command-line interface that allows
 #  the user to interact with a PostgreSQL database. 
 #  When the script is run, it displays a welcome message,
