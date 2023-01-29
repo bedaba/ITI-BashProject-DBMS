@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Welcome to bedaba DB we are going to list the tables!
+echo Welcome to iti DB we are going to list the tables!
 
 subdircount=$(find . -not -path '*/.*' | wc -l)
 if (("$subdircount" == 1 ))

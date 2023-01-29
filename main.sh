@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Welcome to bedaba DB!
+echo Welcome to iti DB!
 PS3="Please Choose a Number: "
 select item in "Create DB" "List DB" "Connect to DB" "Drop DB"
 do

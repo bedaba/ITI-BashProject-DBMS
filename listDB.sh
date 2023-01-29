@@ -1,6 +1,6 @@
 #!/bin/bash
 PS3="Please Choose a Number: "
-echo Welcome to bedaba DB we are going to list the DB!
+echo Welcome to iti DB we are going to list the DB!
 select item in "List all DB" "List a certine DB"
 do
 case $REPLY in

@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Welcome to bedaba DB we are going to create a new DB!
+echo Welcome to iti DB we are going to create a new DB!
 echo What Should I Call The New DB? and please be advised that you can only name the DB to have character from A to Z and numbers only!
 read dbname
 if [[ $dbname =~ ^[a-zA-Z0-9]+$ ]]
